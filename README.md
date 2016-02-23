@@ -1,0 +1,2 @@
+# canvas-stitcher.js
+CanvasStitcher
